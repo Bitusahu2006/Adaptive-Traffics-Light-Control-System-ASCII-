@@ -49,5 +49,5 @@ An intelligent traffic management system that automatically controls traffic lig
 
 ## 💡 Author
 **[Bitu sahu ]**  
-B.Tech in AI & Data Science | AI & IoT Enthusiast  
+B.Tech in AI & Data Science | IoT Enthusiast  
 📫 [www.linkedin.com/in/bitu-sahu-68b412334]
